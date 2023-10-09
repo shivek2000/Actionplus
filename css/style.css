@@ -90,7 +90,8 @@ font-size: 15px;
 color: #000;
 line-height: 28px;
 }
-.service-agile-info-left p{color:#2f2f2f;}
+
+.service-agile-info-left p{color:#dc3545;}
 .dance-agile-info h4,.clients-txt-agile h4,.team-agile-group h4{
 font-size: 22px;
 color:#f65a5b;
@@ -105,8 +106,10 @@ list-style: none;
 display: inline-block;
 }
 .service,.team {
-background: #f65a5b;
+background: #000000de;
+;
 }
+
 /*-- header --*/
 /*-- nav --*/
 .header-outs {
